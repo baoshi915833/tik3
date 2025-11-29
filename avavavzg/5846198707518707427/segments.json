@@ -1,0 +1,62 @@
+[
+  {
+    "file": "part_000.mp4",
+    "start": 0,
+    "duration": 47
+  },
+  {
+    "file": "part_001.mp4",
+    "start": 47,
+    "duration": 47.04
+  },
+  {
+    "file": "part_002.mp4",
+    "start": 94.04,
+    "duration": 47.959
+  },
+  {
+    "file": "part_003.mp4",
+    "start": 141.999,
+    "duration": 47.033
+  },
+  {
+    "file": "part_004.mp4",
+    "start": 189.033,
+    "duration": 47.999
+  },
+  {
+    "file": "part_005.mp4",
+    "start": 237.032,
+    "duration": 47.98
+  },
+  {
+    "file": "part_006.mp4",
+    "start": 285.012,
+    "duration": 48.019
+  },
+  {
+    "file": "part_007.mp4",
+    "start": 333.031,
+    "duration": 47.956
+  },
+  {
+    "file": "part_008.mp4",
+    "start": 380.987,
+    "duration": 47.044
+  },
+  {
+    "file": "part_009.mp4",
+    "start": 428.031,
+    "duration": 47.996
+  },
+  {
+    "file": "part_010.mp4",
+    "start": 476.027,
+    "duration": 48
+  },
+  {
+    "file": "part_011.mp4",
+    "start": 524.028,
+    "duration": 30.348
+  }
+]
